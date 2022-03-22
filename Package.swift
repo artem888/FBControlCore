@@ -13,7 +13,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "FBSimulatorControl",
+            name: "FBControlCore",
             path: "./Sources/FBControlCore.xcframework"
         )
     ]
